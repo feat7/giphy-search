@@ -4,6 +4,14 @@ Simple giphy search with React.js and Flask. Only for demo purpse.
 
 # Installation
 
+First clone the repository.
+
+```
+git clone https://github.com/feat7/giphy-search.git
+cd giphy-search
+```
+Now follow the steps:
+
 1. Create a virual environment and activate it.
 
 ```

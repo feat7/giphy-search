@@ -39,7 +39,7 @@ class App extends Component {
             return (
               <div key={index}>
                 {item.title}
-                <img src={item.images.original.url} height={80} width={80} />
+                <img src={item.images.original.url} alt={item.title} height={80} width={80} />
               </div>
             );
           })}
